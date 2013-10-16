@@ -94,7 +94,7 @@ void spila( )
 void hjalp( )
 {
 	cout << "              UM NIM - LEIKINN " << endl << endl;
-	cout << "Leikurinn NIM er upprunninn fra Asiu thar sem hann var" << endl;
+	cout << "Leikurinn NIM er upprunninn fra Japan thar sem hann var" << endl;
 	cout << "leikinn med steinvolum.  Reglurnar eru thessar: " << endl;
 	cout << "Keppendur setja einhvern fjolda af eldspytum i hrugur " << endl;
 	cout << "(their akveda sjalfir hve margar hrugur og hve margar " << endl;
